@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Plants
+comment0.text=\r\n\ Class\ representing\ all\ plants\ in\ the\ simulation.\r\n
+comment1.params=field\ location
+comment1.target=Plants(Field,\ Location)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Plants\r\n
+comment2.params=
+comment2.target=int\ returnChanceOfDisease()
+comment2.text=\r\n\ @Returns\ chance\ of\ disease\r\n
+comment3.params=
+comment3.target=boolean\ isRainy()
+comment3.text=\r\n\ It\ will\ check\ if\ it\ is\ raining\ and\ if\ so,\ it\ returns\ true\ to\ \r\n\ make\ plants\ grow\ faster\ (Check\ any\ plant\ class\ for\ proof\ such\r\n\ as\ grass)\r\n\ @return\ True\ if\ raining,\ false\ if\ not.\r\n
+numComments=4

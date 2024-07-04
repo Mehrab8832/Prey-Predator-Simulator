@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=\r\n\ The\ class\ containing\ the\ clock\ time\ for\ the\ simulator.\r\n\ Clock\ displays\ time\ as\ a\ 24\ hour\ format.\r\n\ Used\ to\ simulate\ sleeping\ patterns\ within\ animals.\r\n\r\n\ @author\ Musab\ Khan\ and\ Mehrab\ Rahman\r\n\ @version\ 2016.02.29\r\n
+comment1.params=
+comment1.target=Clock()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Clock\r\n
+comment2.params=
+comment2.target=java.lang.String\ returnClockTimeAsString()
+comment2.text=\r\n\ @return\ Clock\ time\ as\ string.\r\n
+comment3.params=
+comment3.target=int\ returnClockTimeAsInt()
+comment3.text=\r\n\ @Return\ clock\ time\ as\ a\ single\ int.\r\n
+comment4.params=
+comment4.target=void\ incrementClockTime()
+comment4.text=\r\n\ Increment\ clock\ time\ by\ one.\r\n
+comment5.params=newTime
+comment5.target=void\ changeClockTime(int)
+comment5.text=\r\n\ Change\ the\ clock\ time\ depending\ on\ the\ parameter.\r\n\ @param\ newTime\ which\ clockTime\ is\ changed\ to.\r\n
+numComments=6

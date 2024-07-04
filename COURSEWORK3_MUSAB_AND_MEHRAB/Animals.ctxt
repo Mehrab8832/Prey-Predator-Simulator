@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Animals
+comment0.text=\r\n\ Class\ representing\ all\ animals\ in\ the\ simulation.\r\n
+comment1.params=field\ location
+comment1.target=Animals(Field,\ Location)
+comment2.params=
+comment2.target=Location\ findFood()
+comment2.text=\r\n\ A\ method\ which\ all\ animals\ must\ do,\ predators\ hunting\ for\ other\ smaller\ animals\ while\r\n\ prey\ hunt\ for\ grass\ (or\ any\ plant\ species)\ only.\r\n
+comment3.params=
+comment3.target=boolean\ canMove()
+comment3.text=\r\n\ If\ it's\ foggy,\ there\ is\ a\ half\ chance\ if\ the\ animal\ can\r\n\ move\ or\ not.\r\n
+comment4.params=
+comment4.target=boolean\ isMale()
+comment4.text=\r\n\ Returns\ animal's\ sex.\r\n\ @return\ True\ if\ male,\ false\ if\ not.\r\n
+numComments=5

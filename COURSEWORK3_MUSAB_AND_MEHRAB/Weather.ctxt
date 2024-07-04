@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\r\n\ Class\ for\ each\ weather\ used\ in\ the\ simulation.\r\n\r\n\ @Musab\ Khan\ and\ Mehrab\ Rahman\r\n
+comment1.params=weatherName\ weatherLengthTime
+comment1.target=Weather(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Weather\r\n\ @param\ weatherName\ gives\ name\ to\ weather\ object\r\n\ @param\ weatherLengthTime\ becomes\ the\ new\ weather\ length.\r\n
+comment2.params=
+comment2.target=java.lang.String\ returnWeatherName()
+comment2.text=\r\n\ Return\ weather\ name\ as\ string.\r\n
+comment3.params=newWeatherLengthTime
+comment3.target=void\ changeWeatherLength(int)
+comment3.text=\r\n\ Change\ weather\ length,\ how\ long\ it\ will\ last\ in\ hours/steps.\r\n\ @param\ newWeatherLengthTime\ will\ be\ the\ new\ weatherLengthTime.\r\n
+comment4.params=
+comment4.target=void\ decreaseWeatherLength()
+comment4.text=\r\n\ Decrease\ weather\ length\ by\ a\ step/hour.\r\n
+comment5.params=
+comment5.target=int\ returnWeatherLength()
+comment5.text=\r\n\ @return\ weather\ length\ as\ an\ int.\r\n
+numComments=6

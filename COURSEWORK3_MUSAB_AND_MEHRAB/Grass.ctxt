@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Grass
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ grass\ patch.\r\n\ They\ can\ produce\ offspirng,\ die\ of\ old\ age,\ or\ be\ eaten.\r\n\r\n\ @Musab\ Khan\ and\ Mehrab\ Rahman\r\n
+comment1.params=randomAge\ field\ location
+comment1.target=Grass(boolean,\ Field,\ Location)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Plant\r\n
+comment2.params=
+comment2.target=void\ incrementAge()
+comment2.text=\r\n\ Increase\ the\ age.\r\n\ This\ could\ result\ in\ the\ grass\ patch's\ death.\r\n
+comment3.params=newGrass
+comment3.target=void\ act(java.util.List)
+comment3.text=\r\n\ What\ the\ grass\ patch\ will\ do\ when\ the\ simulation\ is\ simulated\ by\ one\ step.\r\n\ They\ can\ produce\ offspring,\ get\ disease\ randomly\ or\ die\ of\ old\ age.\r\n
+comment4.params=newGrass
+comment4.target=void\ giveBirth(java.util.List)
+comment4.text=\r\n\ Check\ whether\ or\ not\ this\ grass\ patch\ is\ to\ give\ birth\ at\ this\ step.\r\n\ New\ births\ will\ be\ made\ into\ free\ adjacent\ locations.\r\n\ @param\ newGrass\ A\ list\ to\ return\ newly\ born\ grass\ patches.\r\n
+comment5.params=
+comment5.target=int\ breed()
+comment5.text=\r\n\ Generate\ a\ number\ representing\ the\ number\ of\ births,\r\n\ if\ it\ can\ breed.\r\n\ @return\ The\ number\ of\ births\ (may\ be\ zero).\r\n
+comment6.params=
+comment6.target=boolean\ canBreed()
+comment6.text=\r\n\ A\ grass\ patch\ can\ breed\ if\ it\ has\ reached\ the\ breeding\ age.\r\n\ @return\ true\ if\ the\ rabbit\ can\ breed,\ false\ otherwise.\r\n
+numComments=7
